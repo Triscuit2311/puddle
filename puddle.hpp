@@ -1,3 +1,9 @@
+/*
+ *  Memory Puddle
+ *  Copyright (c) 2024 Dante Trisciuzzi
+ *  MIT License
+ */
+
 #pragma once
 #include <functional>
 
