@@ -1,7 +1,7 @@
 
 ## Puddle
 The concept here is simple, we allocate more memory than we need to store some valuable data, and we obfuscate the data by hiding it in this block.
-Before I explain further, please not there are no cryptographically secure methods here, and this is not reccomended for production use.
+Before I explain further, please note there are no cryptographically secure methods here, and this is not reccomended for production use.
 
 ### How it works
 All operations involving the data puddle are abstracted into anonymous lambdas, which adds a level of complexity to the assembly output.
